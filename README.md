@@ -10,4 +10,4 @@ Learn Learn Learn
 share, share,
 lern and share
 git learn
-learn and learn
+learn and learn & leaen & share
